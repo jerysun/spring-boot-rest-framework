@@ -61,10 +61,10 @@ The app defines following RESTful APIs:
     GET /user/articles
     
     POST /user/article
-		
-		PUT /user/article
-		
-		DELETE /user/article/{id}
+    
+    PUT /user/article
+    
+    DELETE /user/article/{id}
 
 **5. Run the unit test**
 
@@ -83,4 +83,5 @@ You can find more open source codes written in C, C++, Java, Python, C# by me on
 <https://sites.google.com/site/geekssmallworld/>
 
 Have fun!
+
 Jerry
